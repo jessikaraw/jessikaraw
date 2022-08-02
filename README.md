@@ -1,4 +1,4 @@
-## Olá, eu sou a Jéssika!
+# Olá, bem vindo(a), eu sou a Jéssika! 🛸
 
 ### :brain: Sobre mim:
 - 📷 Sou **fotógrafa** e **videomaker** desde 2017; Meu trabalho vai da produção de vídeos de endomarketing a campanhas institucionais. Eu faço roteirização, edição de vídeo, design e animação; 
