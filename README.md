@@ -10,6 +10,9 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikaraw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  [![@jessikaraw's Holopin board](https://holopin.me/jessikaraw)](https://holopin.io/@jessikaraw)
+
+  
 ##  
 
 ### 📚 Habilidades
