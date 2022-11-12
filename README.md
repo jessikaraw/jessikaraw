@@ -53,7 +53,9 @@
   <a href="https://instagram.com/jessikof_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessika.o.ferreira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UC0gsRvcLhoYT7X4lRSbadAw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
+https://dev.to/jessikaraw
+  
+  
 ##
 ### :eyes: Profile Views
 <p align="center">
