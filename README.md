@@ -6,8 +6,8 @@
 - ✨ Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/jessikaraw">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jessikaraw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikaraw&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessikaraw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessikaraw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   [![@jessikaraw's Holopin board](https://holopin.me/jessikaraw)](https://holopin.io/@jessikaraw)
