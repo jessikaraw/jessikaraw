@@ -2,8 +2,8 @@
 
 ### :brain: Sobre mim:
 - 👩‍💻 Jéssika Ferreira estudante de Tecnologia em Sistemas para Internet com ênfase em FullStack no Instituto Federal do Espírito Santo. Profissional de Tecnologia com experiência diversificada em Suporte de tecnologia, Servidor Windows e Google Workspace. 
-        Com mais de três anos de experiência em Dev. Front-end, possuo um sólido conhecimento em HTML, CSS, JavaScript, TypeScript, NodeJS e ReactJS. Capaz de desenvolver aplicações web utilizando frameworks como React e Next.JS, e utilizando Firebase para construção do banco de dados. Tenho familiaridade com AWS, Python e bancos de dados. 
-        Com mais de oito anos de experiência na área audiovisual, sou especialista em comunicação para o consumidor e seu público. Formada nos cursos técnicos de Rádio e TV e Multimídia pelo Centro Estadual de Educação Técnica Vasco Coutinho.
+      -  Com mais de três anos de experiência em Dev. Front-end, possuo um sólido conhecimento em HTML, CSS, JavaScript, TypeScript, NodeJS e ReactJS. Capaz de desenvolver aplicações web utilizando frameworks como React e Next.JS, e utilizando Firebase para construção do banco de dados. Tenho familiaridade com AWS, Python e bancos de dados. 
+      -  Com mais de oito anos de experiência na área audiovisual, sou especialista em comunicação para o consumidor e seu público. Formada nos cursos técnicos de Rádio e TV e Multimídia pelo Centro Estadual de Educação Técnica Vasco Coutinho.
 
 - ✨ Pronouns: ela/dela
 <div align="center">
@@ -18,23 +18,23 @@
 ##  
 
 ### 📚 Habilidades
-Desenvolvimento Web (Front-End): HTML, CSS, JavaScript, React, Angular, Vue.js, Acessibilidade Web (WCAG), SEO.
-Desenvolvimento Web (Back-End): Node.js, Python (Django/Flask), PHP (Laravel), Ruby on Rails, APIs RESTful, Bancos de Dados (SQL e NoSQL).
-Desenvolvimento Mobile: React Native, Flutter, Swift (iOS), Kotlin (Android).
-DevOps: Git, Docker, Kubernetes, CI/CD, Cloud Computing (AWS, Azure, GCP).
-Segurança da Informação: Testes de segurança, OWASP, Protocolos de segurança.
-Banco de Dados: SQL, NoSQL, Modelagem de Dados.
+- Desenvolvimento Web (Front-End): HTML, CSS, JavaScript, React, Angular, Vue.js, Acessibilidade Web (WCAG), SEO.
+- Desenvolvimento Web (Back-End): Node.js, Python (Django/Flask), PHP (Laravel), Ruby on Rails, APIs RESTful, Bancos de Dados (SQL e NoSQL).
+- Desenvolvimento Mobile: React Native, Flutter, Swift (iOS), Kotlin (Android).
+- DevOps: Git, Docker, Kubernetes, CI/CD, Cloud Computing (AWS, Azure, GCP).
+- Segurança da Informação: Testes de segurança, OWASP, Protocolos de segurança.
+- Banco de Dados: SQL, NoSQL, Modelagem de Dados.
 
 ##
 
 ### 🚀 Diferenciais
-Metodologias Ágeis: Scrum, Kanban, XP.
-UI/UX Design (noções): Princípios de design, usabilidade, experiência do usuário.
-Resolução de Problemas: Capacidade analítica, pensamento crítico, debugging.
-Comunicação: Comunicação clara e concisa, escrita e verbal.
-Trabalho em Equipe: Colaboração, proatividade.
-Gestão de Tempo: Organização, priorização de tarefas.
-Inglês Técnico: Leitura e compreensão de documentação.
+- Metodologias Ágeis: Scrum, Kanban, XP.
+- UI/UX Design (noções): Princípios de design, usabilidade, experiência do usuário.
+- Resolução de Problemas: Capacidade analítica, pensamento crítico, debugging.
+- Comunicação: Comunicação clara e concisa, escrita e verbal.
+- Trabalho em Equipe: Colaboração, proatividade.
+- Gestão de Tempo: Organização, priorização de tarefas.
+- Inglês Técnico: Leitura e compreensão de documentação.
 
 ##
 
