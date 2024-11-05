@@ -62,7 +62,7 @@
   <a href="https://instagram.com/jessikof_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessika.o.ferreira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UC0gsRvcLhoYT7X4lRSbadAw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://dev.to/jessikaraw" target="_blank"><img src="![image](https://github.com/user-attachments/assets/494cff08-fe5c-4577-a9cd-1a56e0c44c49)" target="_blank"></a>
+      <a href="https://dev.to/jessikaraw" target="_blank"><img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" target="_blank"></a>
 
   
   
