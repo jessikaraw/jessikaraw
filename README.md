@@ -1,11 +1,9 @@
 # Olá, bem vindo(a), eu sou a Jéssika! 🛸
 
 ### :brain: Sobre mim:
-"Olá, bem-vindo(a)! Eu sou a Jéssika! 🛸
+"Tecnóloga em Sistemas para Internet pelo Instituto Federal do Espírito Santo (concluída em agosto de 2025), com ênfase em FullStack. Com mais de 3 anos de experiência em Desenvolvimento Front-end (HTML, CSS, JavaScript, TypeScript, NodeJS, ReactJS, React e Next.JS, Firebase), e familiaridade com AWS, Python e bancos de dados, busco construir soluções web inovadoras.
 
-🧠 Sobre mim: Sou Jéssika Ferreira, Tecnóloga em Sistemas para Internet pelo Instituto Federal do Espírito Santo (concluída em agosto de 2025), com ênfase em FullStack. Com mais de 3 anos de experiência em Desenvolvimento Front-end (HTML, CSS, JavaScript, TypeScript, NodeJS, ReactJS, React e Next.JS, Firebase), e familiaridade com AWS, Python e bancos de dados, busco construir soluções web inovadoras.
-
-Minha trajetória inclui também mais de 8 anos na área audiovisual, onde me especializei em comunicação e produção de conteúdo. Sou formada nos cursos técnicos de Rádio e TV e Multimídia pelo Centro Estadual de Educação Técnica Vasco Coutinho, o que me proporciona uma visão única para criar experiências digitais que não apenas funcionam, mas também comunicam e engajam eficazmente.
+Minha trajetória inclui também mais de 8 anos na área audiovisual, onde me especializei em comunicação e produção de conteúdo. Sou formada nos cursos técnicos de Rádio e TV e Multimídia pelo Centro Estadual de Educação Técnica Vasco Coutinho e técnico Administrativo pelo Instituto Federal do Espírito Santo, o que me proporciona uma visão única para criar experiências digitais que não apenas funcionam, mas também comunicam e engajam eficazmente.
 
 Tenho experiência diversificada em Suporte de Tecnologia (Servidor Windows, Google Workspace) e sou apaixonada por conectar pessoas e ideias através da tecnologia e da comunicação."
 
