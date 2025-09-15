@@ -64,12 +64,4 @@ Tenho experiência diversificada em Suporte de Tecnologia (Servidor Windows, Goo
     <a href="https://www.youtube.com/channel/UC0gsRvcLhoYT7X4lRSbadAw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       <a href="https://dev.to/jessikaraw" target="_blank"><img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" target="_blank"></a>
 
-  
-  
-##
-### :eyes: Profile Views
-<p align="center">
 
-
-![Visitor Count](https://profile-counter.glitch.me/{JessikaOF}/count.svg)
-</p>
