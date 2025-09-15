@@ -56,7 +56,7 @@ Tenho experiência diversificada em Suporte de Tecnologia (Servidor Windows, Goo
 
 ### 🖥️ Redes Sociais
 <div> 
- <a href="https://www.linkedin.com/in/jessika-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/jessika-o-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/jessikaof" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
     <a href="https://spectacled-cheek-815.notion.site/Jessika-de-Oliveira-Ferreira-6cdd87fa550d4acbb9eb92804b6d8990" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/jessikof_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
